@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: ocean_0_ani_8
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -22368587, guid: dcf9dd2d712b03344b3549749a9086eb, type: 3}
+  - {fileID: -917411218, guid: 711d1db4aad59bc40a9d1b746b8f7a41, type: 3}
+  - {fileID: 1357595297, guid: 7b11766cabcb8ab4c944f20eb0d287b0, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
