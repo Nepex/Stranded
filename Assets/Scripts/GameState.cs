@@ -19,7 +19,6 @@ public class GameState
 
     public static readonly GameState Default = new()
     {
-        // TODO: Set this to start screen once one is created
         PlayerState = PlayerState.Start,
         IsPaused = false,
         Health = 100,

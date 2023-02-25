@@ -8,8 +8,6 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour
 {
     private Canvas canvas;
-
-    public Button DefaultButton;
     public EventSystem EventSystem;
 
     private void Start()
