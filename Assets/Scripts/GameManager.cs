@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
 
     public static event Action<GameState> OnGameStateChanged;
     public static event Action<PlayerState> OnPlayerStateChanged;
+    public static event Action<bool> OnPauseStateChanged;
 
     private void Awake()
     {
@@ -33,12 +34,14 @@ public class GameManager : MonoBehaviour
         {
             Time.timeScale = 1;
             _state.IsPaused = false;
+            OnPauseStateChanged?.Invoke(_state.IsPaused);
             return;
         }
 
         // Pause
         Time.timeScale = 0;
         _state.IsPaused = true;
+        OnPauseStateChanged?.Invoke(_state.IsPaused);
     }
 
 

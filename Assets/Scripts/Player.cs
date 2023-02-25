@@ -18,6 +18,12 @@ public class Player : MonoBehaviour
 
     private void ProcessInputs()
     {
+        if (GameManager.State.PlayerState == PlayerState.Start)
+        {
+            return;
+        }
+
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             GameManager.Instance.TogglePause();
