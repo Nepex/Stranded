@@ -7,7 +7,11 @@ public enum PlayerState
     Start,
     Idle,
     Fishing,
-    Dead
+    FishOnHook,
+    AttempingCatch,
+    FishCaught,
+    EatingFish,
+    Fainted
 }
 
 public class GameState

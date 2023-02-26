@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2c3153dfcc004094d97cf8c88b97d681
+guid: 85a1b21d18df3044b89ca6c3801948ca
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_fishing_idle_0_0
+      name: char_fish_on_hook_0_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e4127d73e115ac4da0ddd2f0471f8a8
-      internalID: -1623679820
+      spriteID: 753c970e79a500e458721ecd2876497c
+      internalID: 746689591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_fishing_idle_0_1
+      name: char_fish_on_hook_0_1
       rect:
         serializedVersion: 2
         x: 128
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5224a658ad532c14e987e4150fd8564b
-      internalID: -542888803
+      spriteID: 143255cc291abc946b72873b77d49e6c
+      internalID: 1606131798
       vertices: []
       indices: 
       edges: []
@@ -157,8 +157,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_fishing_idle_0_0: -1623679820
-      char_fishing_idle_0_1: -542888803
+      char_fish_on_hook_0_0: 746689591
+      char_fish_on_hook_0_1: 1606131798
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

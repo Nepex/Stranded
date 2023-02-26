@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CharFishingIdle
+  m_Name: CharFishOnHook
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +20,9 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -1623679820, guid: 2c3153dfcc004094d97cf8c88b97d681, type: 3}
+      value: {fileID: 746689591, guid: 85a1b21d18df3044b89ca6c3801948ca, type: 3}
     - time: 0.33333334
-      value: {fileID: -542888803, guid: 2c3153dfcc004094d97cf8c88b97d681, type: 3}
+      value: {fileID: 1606131798, guid: 85a1b21d18df3044b89ca6c3801948ca, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -42,8 +42,8 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -1623679820, guid: 2c3153dfcc004094d97cf8c88b97d681, type: 3}
-    - {fileID: -542888803, guid: 2c3153dfcc004094d97cf8c88b97d681, type: 3}
+    - {fileID: 746689591, guid: 85a1b21d18df3044b89ca6c3801948ca, type: 3}
+    - {fileID: 1606131798, guid: 85a1b21d18df3044b89ca6c3801948ca, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

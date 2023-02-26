@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2c3153dfcc004094d97cf8c88b97d681
+guid: c2b339fde6f4d3d459636e06cbb6114e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_fishing_idle_0_0
+      name: char_attempting_catch_0_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e4127d73e115ac4da0ddd2f0471f8a8
-      internalID: -1623679820
+      spriteID: 3c7f4cc325773cd4298f740d124504cc
+      internalID: -1107773210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_fishing_idle_0_1
+      name: char_attempting_catch_0_1
       rect:
         serializedVersion: 2
         x: 128
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5224a658ad532c14e987e4150fd8564b
-      internalID: -542888803
+      spriteID: 8941421bc665aef4f983a0b99faebd31
+      internalID: -668994330
       vertices: []
       indices: 
       edges: []
@@ -157,8 +157,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_fishing_idle_0_0: -1623679820
-      char_fishing_idle_0_1: -542888803
+      char_attempting_catch_0_1: -668994330
+      char_attempting_catch_0_0: -1107773210
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
