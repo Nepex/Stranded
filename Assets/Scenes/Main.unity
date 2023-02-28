@@ -1988,7 +1988,7 @@ Tilemap:
       - {fileID: -2067017074, guid: dcf9dd2d712b03344b3549749a9086eb, type: 3}
       - {fileID: -892366519, guid: 711d1db4aad59bc40a9d1b746b8f7a41, type: 3}
       - {fileID: -1702763428, guid: 7b11766cabcb8ab4c944f20eb0d287b0, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -5, y: -4, z: 0}
@@ -2024,7 +2024,7 @@ Tilemap:
       - {fileID: -1053123070, guid: dcf9dd2d712b03344b3549749a9086eb, type: 3}
       - {fileID: -573195980, guid: 711d1db4aad59bc40a9d1b746b8f7a41, type: 3}
       - {fileID: 1177082309, guid: 7b11766cabcb8ab4c944f20eb0d287b0, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -1, y: -4, z: 0}
@@ -2114,7 +2114,7 @@ Tilemap:
       - {fileID: 368314897, guid: dcf9dd2d712b03344b3549749a9086eb, type: 3}
       - {fileID: -2076659543, guid: 711d1db4aad59bc40a9d1b746b8f7a41, type: 3}
       - {fileID: -2141892352, guid: 7b11766cabcb8ab4c944f20eb0d287b0, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -6, y: -3, z: 0}
@@ -2186,7 +2186,7 @@ Tilemap:
       - {fileID: 747247590, guid: dcf9dd2d712b03344b3549749a9086eb, type: 3}
       - {fileID: -1124725427, guid: 711d1db4aad59bc40a9d1b746b8f7a41, type: 3}
       - {fileID: -1605512171, guid: 7b11766cabcb8ab4c944f20eb0d287b0, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 2, y: -3, z: 0}
@@ -2330,7 +2330,7 @@ Tilemap:
       - {fileID: 951419010, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: 568673682, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: -1900935844, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 3, y: -2, z: 0}
@@ -2402,7 +2402,7 @@ Tilemap:
       - {fileID: 675738987, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: 5496465, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: 1860427230, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -4, y: -1, z: 0}
@@ -2474,7 +2474,7 @@ Tilemap:
       - {fileID: 361281635, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: -174721583, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: 363883506, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 4, y: -1, z: 0}
@@ -2501,7 +2501,7 @@ Tilemap:
       - {fileID: 361281635, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: -174721583, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: 363883506, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 7, y: -1, z: 0}
@@ -2519,7 +2519,7 @@ Tilemap:
       - {fileID: -1062123657, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: 2053175257, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: -1441965135, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -6, y: 0, z: 0}
@@ -2537,7 +2537,7 @@ Tilemap:
       - {fileID: 69981697, guid: 32f6e36674fe5e64392429023b5a2c66, type: 3}
       - {fileID: 1412750788, guid: ea2c26b6fae835e469876d28bb99dd5b, type: 3}
       - {fileID: -46109864, guid: 44f9e793add63954bbb301963506ea57, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -4, y: 0, z: 0}
